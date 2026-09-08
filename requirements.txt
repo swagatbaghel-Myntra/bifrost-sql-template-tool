@@ -1,0 +1,2 @@
+# The core renderer, mock client, CSV exporter, and JSON exporter use only the
+# Python standard library. Install requirements-parquet.txt for Parquet output.
